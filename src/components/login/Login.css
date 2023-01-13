@@ -1,0 +1,38 @@
+.login
+{
+    width: 100%;
+    /* height: 80px; */
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 90vh;
+}
+.login-container
+{
+    width: 40%;
+    height: 280px;
+    /* display: flex; */
+    justify-content: center;
+    /* align-items: center; */
+    /* text-align: center; */
+    background-color: rgb(184, 130, 234);
+}
+.login-form {
+    padding: 13px 27%;
+    /* background-color: aquamarine; */
+}
+.login-form input{
+    width: 100%;
+    border: none;
+    outline: none;
+    height: 30px;
+    padding: 12px;
+    margin-bottom: 10px;
+}
+.login-form label
+{
+    float: left;
+    padding-bottom: 10px;
+}
